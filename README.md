@@ -77,6 +77,8 @@ That's why I like to make things that make a difference.
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?&logo=jquery&logoColor=white"></a>
+  <a href="#"><img alt=".NET" src="https://img.shields.io/badge/-.NET%206.0-blueviolet"></a>
+  
 </p>
 
 ### 🗄️ Databases and Cloud Hosting

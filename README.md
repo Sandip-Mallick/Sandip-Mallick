@@ -74,7 +74,7 @@ That's why I like to make things that make a difference.
 
 <p>
     <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
-    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-f0f0f0.svg?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciICB2aWV3Qm94PSIwIDAgNTAgNTAiIHdpZHRoPSI1MHB4IiBoZWlnaHQ9IjUwcHgiPjxwYXRoIGQ9Ik00OS43MjkgMTFoLS44NWMtMS4wNTEgMC0yLjA0MS40OS0yLjY4IDEuMzI0bC04LjcgMTEuMzc3LTguNy0xMS4zNzdDMjguMTYyIDExLjQ5IDI3LjE3MSAxMSAyNi4xMjEgMTFoLS44NWwxMC45NzEgMTQuMzQ2TDI1LjAzNiA0MGguODVjMS4wNTEgMCAyLjA0MS0uNDkgMi42NzktMS4zMjRMMzcuNSAyNi45OTJsOC45MzUgMTEuNjg0QzQ3LjA3MyAzOS41MSA0OC4wNjMgNDAgNDkuMTE0IDQwaC44NUwzOC43NTggMjUuMzQ2IDQ5LjcyOSAxMXpNMjEuMjg5IDM0LjI0MmMtMi41NTQgMy44ODEtNy41ODIgNS44Ny0xMi4zODkgNC4xMTZDNC42NzEgMzYuODE1IDIgMzIuNjExIDIgMjguMTA5TDIgMjdoMTJ2MGgxMWwwLTQuMTM0YzAtNi41MDUtNC44MTgtMTIuMi0xMS4yOTUtMTIuODA5QzYuMjczIDkuMzU4IDAgMTUuMjEgMCAyMi41bDAgNS41NzNjMCA1LjM3MSAzLjIxNSAxMC4zNjQgOC4yNjkgMTIuMTgzIDYuNjAzIDIuMzc2IDEzLjU0OC0xLjE3IDE1Ljg5Ni03LjI1NiAwIDAgMCAwIDAgMGgtLjYzOEMyMi42MTYgMzMgMjEuNzg5IDMzLjQ4MSAyMS4yODkgMzQuMjQyek0yIDIyLjVDMiAxNi43MSA2LjcxIDEyIDEyLjUgMTJTMjMgMTYuNzEgMjMgMjIuNVYyNUgyVjIyLjV6Ii8+PC9zdmc+"></a>
+    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-f0f0f0.svg?logo=express&logoColor=black&style=social"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?&logo=jquery&logoColor=white"></a>
   <a href="#"><img alt=".NET" src="https://img.shields.io/badge/-.NET%206.0-blueviolet"></a>

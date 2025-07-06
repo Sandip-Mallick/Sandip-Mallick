@@ -74,7 +74,7 @@ That's why I like to make things that make a difference.
 
 <p>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-  <a href="#"><img alt="React" src="https://img.shields.io/badge/Next.js-ffffff.svg?logo=next.js&logoColor=black&style=flat-square"></a>
+  <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-ffffff.svg?logo=next.js&logoColor=black&style=for-the-badge"></a>
     <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-f0f0f0.svg?logo=express&logoColor=black&style=social"></a>
     <a href="#"><img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?&logo=jquery&logoColor=white"></a>

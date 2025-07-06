@@ -1,4 +1,4 @@
-# Welcome to [My-profile](https://sandip-mallick.netlify.app/)! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Welcome to [My-profile] (https://sandip-mallick.netlify.app/)! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 <h3 align="left">Connect with me:</h3>
 

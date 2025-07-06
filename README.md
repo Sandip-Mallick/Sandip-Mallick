@@ -87,7 +87,8 @@ That's why I like to make things that make a difference.
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="Microsoft Azure" src ="https://img.shields.io/badge/Microsoft_Azure-0089D6?logoColor=white"></a>
-    <a href="#"><img alt="Render" src ="https://img.shields.io/badge/Render-%46E3B7.svg?logo=render&logoColor=black"></a>
+    <a href="#"><img alt="Render" src ="https://img.shields.io/badge/Amazon%20AWS-232F3E"></a>
+    <a href="#"><img alt="Render" src ="https://img.shields.io/badge/Render-FFFFFF.svg?logo=render&logoColor=black"></a>
     <a href="#"><img alt="Netlify" src ="https://img.shields.io/badge/netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7"></a>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
 </p>

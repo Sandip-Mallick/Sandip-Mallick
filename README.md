@@ -4,7 +4,7 @@
 
 <a href="https://www.linkedin.com/in/sandip-mallick" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Sandip-Mallick/Sandip-Mallick/main/Logos/linkedin-logo.webp" alt="sandip-mallick" height="30" width="40" /></a>
 &nbsp;
-<a href="[https://github.com/sandip999-art](https://github.com/Sandip-Mallick)" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Sandip-Mallick/Sandip-Mallick/main/Logos/Github-logo.png" alt="sandip-mallick" height="30" width="40" /></a>
+<a href="https://github.com/Sandip-Mallick" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Sandip-Mallick/Sandip-Mallick/main/Logos/Github-logo.png" alt="sandip-mallick" height="30" width="40" /></a>
 &nbsp;
 <a href="https://www.facebook.com/sandipmallick999" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Sandip-Mallick/Sandip-Mallick/main/Logos/Facebook-logo.webp" alt="sandip-mallick" height="30" width="40" /></a>
 &nbsp;

@@ -37,7 +37,7 @@ That's why I like to make things that make a difference.
 - 🌱 I'm currently learning:
   - Tools and technologies: <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white"></a> <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a> 
 - 📬 How to reach me: [sandipmallick999@gmail.com](mailto:sandipmallick999@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/1lNmNTGdZeMwLfBleVRDihFuLQYx2tPZ7/view?usp=sharing).
+- 📝 [Resume](https://drive.google.com/file/d/1frkKSkCXi1fib4rHqBNptzYptyzPDWIs/view?usp=sharing).
 - 💪 This is where I write, code and solve problems:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

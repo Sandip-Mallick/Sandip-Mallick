@@ -21,7 +21,7 @@
 
 ## Glad to see you here! &nbsp; ![visitors]
 
-I am a full-stack **software engineer**, **Co-Founder** and **CTO** @ **[Basify](https://basify.in/)**. I love programming, reading, writing and speaking.
+I am a full-stack **Software Engineer**, **Co-Founder** and **CTO** @ **[Basify](https://basify.in/)**. I love programming, reading, writing and speaking.
 
 As a software engineer, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world.
 
@@ -32,7 +32,7 @@ That's why I like to make things that make a difference.
 ### Talking about Personal Stuff:
 
 - 🔭 I’m currently working on
-- 👨‍🏫 I'm the **Founding Software** at [BasiFy](https://basify.org/)
+- 👨‍🏫 I'm a **Founding Software Engineer** at [BasiFy](https://basify.in/)
 - 💬 Ask me about anything, I am happy to help
 - 🌱 I'm currently learning:
   - Tools and technologies from <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white"></a> <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a> ecosystem
